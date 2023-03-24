@@ -1,0 +1,4 @@
+digite email
+ nome este
+digite sua senha
+adicionando senha no sistema
